@@ -1,0 +1,1 @@
+print("hi python in bash git")
