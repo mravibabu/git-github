@@ -17,3 +17,5 @@ git pull origin master --allow-unrelated-histories
 
 to commit more then one file
 git commit -a -m "comited 3 files togeter."
+
+this file need to be put in another branch ie first branh
